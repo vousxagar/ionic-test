@@ -1,2 +1,6 @@
 Seulrene is reallllllllllllllllllllllllllllllllll
+<<<<<<< HEAD
 jing mak mak
+=======
+finish
+>>>>>>> 1865615c1b935f994467995cfaafd81eacf203e0
